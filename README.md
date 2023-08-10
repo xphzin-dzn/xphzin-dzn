@@ -11,4 +11,7 @@
 
 
 <br>
+<div align=center>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xphzin-dzn&show_icons=true&count_private=true&hide_border=true&title_color=00008B&icon_color=00008B&text_color=_color="F0FFF" alt="xphzin github stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xphzin-dzn&layout=compact&hide_border=true&title_color=00008B&text_color=00008B&bg_color=F0FFF" />
+</div>
