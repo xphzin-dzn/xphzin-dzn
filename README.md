@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<2/4>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<3/4>)](https://git.io/typing-svg)
 <br>
 
 ### <p align=center>Oiii! Tudo Bem? 👋</p>
