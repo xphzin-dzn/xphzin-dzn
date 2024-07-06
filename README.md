@@ -6,7 +6,6 @@
 <p align=center>- 🔭 Atualmente sou estudante de Informática para Internet do IFRS<br>
 - 🌱 Aprendendo programação web backend <br>
 - 📫 Contato: pedrohenriquerochaoliveira1@gmail.com<br>
-- 😄 Pronouns: ele/dele<br>
 - ⚡ Fato interessante: Trabalho com Marketing no Intagram e sou designer!</p>
 
 
