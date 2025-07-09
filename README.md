@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<3/4>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<4/4>)](https://git.io/typing-svg)
 <br>
 
 ### <p align=center>Oiii! Tudo Bem? 👋</p>
 
 <p align=center>- 🔭 Atualmente sou estudante de Informática para Internet do IFRS<br>
-- 🌱 Aprendendo programação web backend <br>
-- 📫 Contato: pedrohenriquerochaoliveira1@gmail.com<br>
-- ⚡ Fato interessante: Trabalho com Marketing no Intagram e sou designer!</p>
+- 🌱 Desenvolvendo meu Trabalho de Conclusao de Curso <br>
+- 📫 Contato: pholiveiracanvakv@gmail.com <br>
+- ⚡ Fato interessante: Trabalho como Social Media no Intagram e sou designer!</p>
 
 
 <br>
